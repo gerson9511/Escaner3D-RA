@@ -1,3 +1,4 @@
+# PRESENTACIÓN
 - 👋 Hola, Mi nombre es Gerson Rhu Botelho
 - 🧑‍💻 Soy estudiante de la carrera de Ingenieria en Sistemas en la Univesidad Franz Tamayo
 - 👀 Estoy interesado en ayudar a los niños, personas de la tercera edad de bajos recursos y los animales de la calle
@@ -20,3 +21,26 @@
 
 # Escaner3D-RA
 Aplicación en Realidad Aumentada con reconocimiento de Objetos 3D de maquillaje utilizando Vuforia y Unity 
+Aplicación en Unity 
+![image](https://user-images.githubusercontent.com/45986551/136316045-f6eb1e83-3bb7-41d1-8ff6-3c78c0b75338.png)
+
+Menu Principal 
+
+![image](https://user-images.githubusercontent.com/45986551/136316134-76473482-cfd5-4710-a8f6-6f22788de8ed.png)
+
+Detección del objeto 1
+
+![image](https://user-images.githubusercontent.com/45986551/136316208-3bf7ffae-81a7-4821-9313-6c6a8cb14bdd.png)
+
+
+Detección del objeto 2
+
+![image](https://user-images.githubusercontent.com/45986551/136316271-eda6dc77-10c4-4145-b7c3-772a01f4de5e.png)
+
+Detección del objeto 3
+
+![image](https://user-images.githubusercontent.com/45986551/136316332-fa249e4a-c454-4b16-a4fc-d0ef68bf94d4.png)
+
+
+
+
