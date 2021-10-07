@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-04T02:37:57Z" name="Prosa" targetId="a16f6d9d1c5c4528b8343af7aef99e8b" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-04T02:30:36Z" name="Nivea" targetId="5ddce0b4b02e47fcb25c3bcd8639198c" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-04T02:20:15Z" name="Juteuse" targetId="3fc07e3a6b5f4b4cb72a8e91f1b3c086" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-04T02:25:29Z" name="Huda" targetId="7f432366241a46c9bef2253c90610d44" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-04T02:16:23Z" name="Feels" targetId="9034e7cc54964b0cb81b535dcbacd9c0" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-04T02:03:33Z" name="Bissu" targetId="e399596471e944768e0be89c87b49a38" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-10-03T22:03:27Z" name="CuboDesarmado" targetId="cfb818d085e24e3699e2ef9abd5303e7" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-09-30T00:43:32Z" name="cubo" targetId="8336ddf50c3e4a93940237f85fe1c3f0" version="12.0" />
+  </TargetSet>
+</QCARInfo>
